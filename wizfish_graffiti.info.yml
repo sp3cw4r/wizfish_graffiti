@@ -1,0 +1,20 @@
+# Wizfish Graffiti
+name: WizFish Graffiti
+type: theme
+description: 'Theme developed for the WizardFish gaming site.'
+core: 8.x
+package: Custom
+
+#libraries:
+#  - wizfish_graffiti/base-styles
+
+# Region meta-data.
+#regions:
+#  header: 'Header'
+#  primary_menu: 'Primary menu'
+#  help: 'Help'
+#  content: 'Content'
+#  footer: 'Footer'
+#  sidebar_first: 'Sidebar first'
+#  page_top: 'Page top'
+#  page_bottom: 'Page bottom'
